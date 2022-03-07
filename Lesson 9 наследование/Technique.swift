@@ -16,3 +16,4 @@ class Technique{
         print("Модель: \(model), цена: \(price), год: \(year), цвет: \(color)")
     }
 }
+print("hello world")
